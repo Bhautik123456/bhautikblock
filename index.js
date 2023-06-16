@@ -7,7 +7,7 @@ const app = express();
 const path = require('path');
 
 const mongoose = require('mongoose');
-const url = "mongodb+srv://bhautik09:9913315136@B@cluster0.t5whmrx.mongodb.net/adminNode9";
+const url = "mongodb+srv://bhautiksakariya09:Bhautik09@cluster0.znt6hqw.mongodb.net/adminNode9";
 
 mongoose.connect(url,{
     useNewUrlParser: true,
